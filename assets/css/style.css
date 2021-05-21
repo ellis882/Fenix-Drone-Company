@@ -222,4 +222,51 @@ hr{
 
 }
 
+/* certification and insurance */
 
+#certifications{
+    height: 600px;
+
+    background: url('../images/certifications-image.jpg') no-repeat center center;
+    height: 100%;      
+
+}
+
+#certifications-heading{
+    text-align: center;
+    margin: 0;
+    font-size: 280%;
+    color: #252525;
+    text-shadow: 2px 2px 7px #777;
+    line-height: 75px;
+}
+
+#certifications-list{
+  
+    width: 300px;
+    height: 400px;
+
+    margin-bottom: 40px;
+    margin-right: 50px;
+    
+
+    padding-top: 40px;
+    padding-left: 10px;    
+
+    background-color: rgba(121,88,12,.7);
+
+    position: relative;
+    bottom: 30px;
+    left: 150px;
+    top: 20px; 
+  
+}
+
+#check-list{
+    color: #fff;
+    font-family: Open Sans Condensed, sans-serif;
+    font-size: 130%;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    list-style-type: none;
+}
