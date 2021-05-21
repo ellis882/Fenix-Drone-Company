@@ -344,3 +344,32 @@ hr{
      list-style-type: none;
      font-size: 150%;
 }
+
+/* footer */
+
+  footer{
+    height: 200px;    
+      
+  }
+
+  .footer{
+    margin-top: 20px;
+    text-align: center;         
+  }
+
+  .social-networks{
+    text-align: center;
+    margin-top: 1px;
+  }
+
+  .social-networks li{
+    display: inline;
+  }
+
+  .social-networks i{
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
+      
+  }
