@@ -126,3 +126,98 @@ h1, h2{
 
     position: absolute;
 }
+
+/* expertise section */
+
+#expertise{
+    height: 600px;
+}
+
+#left-about{
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+    
+}
+
+#right-about{
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+    
+}
+
+#center-about{
+    width: 33%;
+    margin: 0 auto;
+    
+}
+
+hr{
+    border-top: 1px solid #3a3a3a;
+    width: 100%;
+    margin: 5px 0;
+}
+
+.left-about-heading{
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.right-about-heading{
+    width: 60%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.right-about-heading h2{
+    text-align: right;
+}
+
+.right-about-heading p{
+    text-align: right;
+}
+
+.left-about-heading h2{
+    text-align: left;
+}
+
+.left-about-heading p{
+    text-align: left;
+}
+
+#about{
+    text-align: center;
+    margin: 20px 0;
+    font-size: 280%;
+    color: #252525;
+    text-shadow: 2px 2px 7px #777;
+}
+
+.title{
+    text-align: center;
+}
+
+#circle-container{
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+       
+    margin: 0 auto;
+    
+}
+
+#circle-cover-bg {
+    background: url(../images/expertise2-image.jpg) no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+    box-shadow: 0 0 98px 6px rgba(0, 0, 0, 0.3);
+    background-clip: content-box;
+    padding: 1px;       
+
+}
