@@ -316,4 +316,31 @@ hr{
   padding: 1px; 
 }
 
+  /* Pricing Card */
 
+  #pricing{
+    clear: both;
+    height: 400px;
+    background-color: rgba(121,88,12,.7);    
+}
+
+  #card{
+     margin: auto;
+     padding: 20px;  
+     width: 30%;       
+     margin-top: 40px;  
+}
+
+  #card, h3, li{
+     text-align: center;
+    
+}
+
+  #card h3{
+     font-size: 150%;
+}
+
+  .delivery-package{
+     list-style-type: none;
+     font-size: 150%;
+}
