@@ -374,4 +374,35 @@ hr{
       
   }
 
-  
+  /* projects we had done */
+
+   #projects{
+    clear: both;       
+  }
+
+   #projects-title{
+     text-align: center;
+     margin: 20px 0;
+     font-size: 280%;
+     color: #252525;
+     text-shadow: 2px 2px 7px #777;
+  }
+
+
+    .column-one, .column-two{
+      column-count: 3;
+      column-gap: 25px;
+      margin-bottom: 25px;
+    
+  }
+
+    .column-one p, .column-two p{
+      margin: auto;
+    
+  }
+
+    .column-one img, .column-two img{
+    width: 100%
+    
+  }
+
