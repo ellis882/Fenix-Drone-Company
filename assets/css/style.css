@@ -270,3 +270,50 @@ hr{
     letter-spacing: 2px;
     list-style-type: none;
 }
+
+/* equipment */
+
+#equipment{
+    height: 600px;    
+}
+
+#equipment-heading{
+  text-align: center;
+  margin: 0;
+  font-size: 280%;
+  color: #252525;
+  text-shadow: 2px 2px 7px #777;
+  line-height: 75px;
+}
+
+#left-drone{
+    float: left;
+    padding-top: 3px;
+    width: 33%;         
+}
+
+#left-drone, #right-drone, #center-drone h2, p{
+    text-align: center;
+}
+
+#right-drone{
+    float: right;
+    padding-top: 3px;
+    width: 33%;
+    text-align: center;
+}
+
+#center-drone{
+    width: 33%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.circle{
+  border-radius: 50%;
+  box-shadow: 0 0 98px 6px rgba(0, 0, 0, 0.3);
+  background-clip: content-box;
+  padding: 1px; 
+}
+
+
