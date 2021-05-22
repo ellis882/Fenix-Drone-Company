@@ -15,7 +15,7 @@ body{
 
 /* headings and logo */
 
-h1, h2{
+h1, h2, h3{
     font-family: Open Sans Condensed, sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -241,6 +241,10 @@ hr{
     line-height: 75px;
 }
 
+.title-two{
+  text-align: center;
+}
+
 #certifications-list{
   
     width: 300px;
@@ -421,15 +425,18 @@ hr{
 }
 
 .promo-one h3{
-    color: #fff;
+    
     font-family: Open Sans Condensed, sans-serif;
     font-size: 130%;
     text-transform: uppercase;
     letter-spacing: 2px;
     
     line-height: 75px;
-    margin: auto
-        
+    margin: auto        
+}
+
+.numbers{
+  color: #fff;
 }
 
 /* gallery */
