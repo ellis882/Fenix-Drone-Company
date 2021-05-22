@@ -543,7 +543,16 @@ position: relative;
         font-family: Open Sans Condensed, sans-serif;
 }
 
+/* company details at contact page */
 
+#company-details{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#company-details h2{
+  text-align: center;
+}
 
 
 
