@@ -755,6 +755,41 @@ position: relative;
 
 }
 
+/* for small screen sizes from 470px wide and down */
+
+@media screen and (max-width: 470px) {
+  /* about page */
+  #cover-text{
+    width: 200px;
+    height: 300px;
+  }
+
+  #expertise{
+    height: 1350px;
+  }
+
+  #circle-container{
+    padding: inherit;
+    width: auto;
+  }
+
+  #certifications-list{
+    position: inherit;
+    background: none;
+    
+  }
+
+  #pricing{
+    height: 650px;
+  }
+
+  /* project page */
+  #promo-statistics{
+    height: 200px;
+    display: table-row;
+  }
+}
+
 
 
 
