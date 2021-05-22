@@ -406,5 +406,31 @@ hr{
     
   }
 
+  /* projects promo section statistics */
+  
+  #promo-statistics{
+    height: 150px;
+    background-color: rgba(121,88,12,.7);
+    margin-top: 30px;   
+    
+}
+
+  .promo-one{
+     display: inline-block;
+     width: 24%;
+}
+
+.promo-one h3{
+    color: #fff;
+    font-family: Open Sans Condensed, sans-serif;
+    font-size: 130%;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    
+    line-height: 75px;
+    margin: auto
+        
+}
+
   
 
