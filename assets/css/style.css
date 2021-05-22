@@ -712,6 +712,49 @@ position: relative;
   
 }
 
+/* for medium to small screen sizes from 830px wide and down */
+
+@media screen and (max-width: 830px) {
+  
+  /* about page */
+  #expertise{
+    height: 1100px;
+  }
+
+  #center-about{
+    padding: 0;
+  }
+
+  .footer{
+    padding: 0;
+  }
+
+  #certifications{
+    height: 800px;
+  }
+
+  #certifications-list{
+    margin-top: 150px;
+  }
+
+  #pricing{
+    height: 550px;
+  }
+
+  /* projects page */
+  #projects{
+    height: 1500px;
+    overflow: scroll;
+    width: 100%;
+  }
+
+  .column-one, .column-two{
+    column-count: 1;
+    height: auto;
+  }
+
+}
+
 
 
 
