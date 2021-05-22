@@ -493,7 +493,6 @@ position: relative;
 }   
 
  /* contact page background image and contact form */
-
   
  #contact-page{
     clear: left;
@@ -543,6 +542,8 @@ position: relative;
         display: block;
         font-family: Open Sans Condensed, sans-serif;
 }
+
+
 
 
 
