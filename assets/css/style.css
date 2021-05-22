@@ -432,5 +432,66 @@ hr{
         
 }
 
+/* gallery */
+
+#photos{
+    clear: both;
+    line-height: 0;
+    column-count: 3;
+    column-gap: 0;
+}
+
+#photos > .image1{
+  position: relative;  
+}
+
+#photos > .image2{
+  position: relative;        
+}
+
+#photos > .image3{
+  position: relative;
+}
+
+#photos > .image4{
+  position: relative;
+}
+
+#photos > .image5{
+  position: relative;
+}
+
+#photos > .image6{
+  position: relative;
+}
+
+#photos > .image7{
+  position: relative;
+}
+
+#photos > .image8{
+  position: relative;
+}
+
+#photos > .image9{
+  position: relative;
+}
+
+#photos > .image10{
+position: relative;
+}
+
+.text p{
+  position: absolute;
+  top: 100px;
+  left: 0;
+  width: 100%;
+  margin: 0 auto;
+  width: 400px;
+  height: 50px;
+  color: #fff;
+}   
+
+
   
 
