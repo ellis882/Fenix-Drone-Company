@@ -621,6 +621,97 @@ position: relative;
   
 }
 
+/* for medium screen sizes from 950px wide and down */
+
+@media screen and (max-width: 950px) {
+  /* about page */
+  #menu{
+    clear: left;
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    line-height: 25px;
+  }
+
+  #left-drone p, #right-drone p, #center-drone p{
+    padding: 10px;
+
+  }
+
+  #left-drone, #right-drone, #center-drone{
+    width: 100%;
+    float: left;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  #cover-text{
+    right: 0;
+  }
+  
+  #expertise{
+    width: 85%;
+    height: 1000px;
+    margin: 0 auto;
+  }
+
+  #about{
+    margin-bottom: 0;
+    padding: 10px;
+  }
+
+  .left-about-heading, .right-about-heading{
+    width: inherit;
+  }
+
+  .left-about-heading h2, .right-about-heading h2{
+    width: 100%;
+    text-align: center;
+  }
+
+  .left-about-heading p, .right-about-heading p{
+    text-align: center;
+    padding: 0 20px;
+  }
+
+  #center-about{
+    padding-top: 40px;
+  }
+
+  #certifications-heading{
+    float: left;
+    margin-left: 40px;
+  }
+
+  .title-two{
+    float: left;
+    margin-left: 60px;
+
+  }
+
+  #certifications-list{
+    margin-top: 90px;
+  }
+  /* gallery page */
+  #photos{
+    column-count: 2;
+  }  
+
+  .text p{
+    display: none;
+  }
+
+  /* projects page */
+  #projects{
+    height: 700px;
+  }
+
+  #projects p{
+    font-size: small;
+  }
+  
+}
+
 
 
 
