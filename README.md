@@ -9,7 +9,7 @@ In this section, you should go over the different parts of your project, and des
 ### Existing Features
 
 - __Navigation Bar__
-- Featured on all four pages, the full responsive navigation bar includes links to the Logo, About page, Project page Gallery page and Contact page and is identical in each page to allow for easy navigation.
+  - Featured on all four pages, the full responsive navigation bar includes links to the Logo, About page, Project page Gallery page and Contact page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
 - __The landing page image__
@@ -56,7 +56,7 @@ In this section, you should go over the different parts of your project, and des
   - This section is valuable to the user as they will be able to easily identify the types of projects and in what expertise area's Fenix Drone Company operates and in which countries.
   - The look and feel of this page is to make the user want to book a drone service with the Fenix Drone Company.
 
- - __The Contact Page__
+ - __The Contac Page__
 
   - This page will allow the user to get in contact with the Fenix Drone Company. They can send a message to make an appointment or ask information. The user will be asked to submit their full name and email address and if they are in Europe or Brasil. 
 
@@ -66,13 +66,76 @@ In this section, you should go over the different parts of your project, and des
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+-### For larger to medium screens size from 1200px wide and down 
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+ - On the About page changes where made in the Expertise section and Equipment section and Pricing section to maintane the look and feel of the page.
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+  __Expertise Section__
+ - The left, right about text and image in the center where floated to the left and the height was changed to see al the content at the center of the page, below eachother. In this way the text stays clear and the image was set on the bottom of the section.
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+ __Equipment section__
+ - The three images with text of the drones were set on top of eachother to keep a clear view of the images.
+
+ __Pricing section__
+ - The height of this section was changed to fit the text with background and it does not flow over to the footer.
+
+-### For medium screen sizes from 950px wide and down
+
+ - On the About, Gallary and Projects pages were made changes.
+ On the About page the menu, cover text and certifications section were adjusted. 
+ On the Projects page adjustments were made in the projects section.
+ On the Gallery page the images were set different.
+
+__Navigation section__ 
+ - The menu was set to the left below the logo to maintane a clear view of the website.
+
+__The landing page image__
+ - The overlay cover text was set to the right to keep a clear view of it.
+
+__Certifications Section__
+ - The headings were floated to the left on this section to maintane enough space to see the headings clear.
+
+__The Project Page__
+ - The height and font-size was adjusted to fit the page and keep a clear view of the content.
+
+ __Gallery__
+ - The columns were set from 3 to 2 because of the space on the page. The text on the images were taken away because the images are to small to read the text on each image.
+
+-### for medium to small screen sizes from 830px wide and down
+
+- On the about page and projects page changes were made to keep the flow of the website.
+
+__Expertise Section__
+ - The height was adjusted to keep the content on the section.
+
+__Certifications Section__
+- The height was adjusted to keep the content on the section.
+
+__Pricing section__
+- The height was adjusted to keep the content on the section.
+
+__The Project Page__
+ - The height was adjusted and had made the overflow to scroll because of the sizes of the images and had put the column count to one.
+
+-### small screen sizes from 470px wide and down 
+
+ -On the about page and projects page at the promo statistics section changes were made to keep the flow of the website in the same way.
+
+__The landing page image__
+ - The overlay cover text was made smaller to keep a clear view of it.
+
+__Expertise Section__
+ - The height was adjusted to keep the content on the section. And the circle container was adjusted.
+
+__Certifications Section__
+- Removed the background color of the checklist and put the checklist under the heading. 
+
+__Pricing section__
+- The height was adjusted to keep the content on the section.
+
+__The Promo statistics section__ 
+ - The height and display were changed to keep the content on the section.
+
 
 ### Validator Testing 
 
