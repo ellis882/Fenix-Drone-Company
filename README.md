@@ -90,7 +90,7 @@ In this section, you should go over the different parts of your project, and des
 
 ## Testing 
 
--### For larger to medium screens size from 1200px wide and down 
+-### **For larger to medium screens size from 1200px wide and down** 
 
  - On the About page changes where made in the Expertise section and Equipment section and Pricing section to maintane the look and feel of the page.
 
@@ -171,7 +171,7 @@ __The Promo statistics section__
   - Following errors were found when passing through the official [(Jigsaw) validator]()
 
 ### Lighthouse Testing
- - Had put the website on LightHouse testing.  
+ - Had put the website on LightHouse testing. 
 
 ### Unfixed Bugs
 
@@ -179,21 +179,19 @@ You will need to mention unfixed bugs and why they were not fixed. This section 
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
+ 
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+The live link can be found here -  
 
 
 ## Credits 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
+In the content section you can find all the sources were i got my information from. I had used a lot of google to get the information i needed for my website. 
 
 ### Content 
 
