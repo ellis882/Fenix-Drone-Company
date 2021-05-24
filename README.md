@@ -14,14 +14,14 @@ In this section, you should go over the different parts of your project, and des
   - Featured on all four pages, the full responsive navigation bar includes links to the Logo, About page, Project page Gallery page and Contact page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-  ![Nav Bar]()
+  ![Nav Bar](https://paste.pics/a224cdaae76530df1262e7989f13d582)
 
 - __The landing page image__
 
   - The landing includes an image with text overlay to allow the user to see that Fenix Drone Company is certified to fly in CTR-Zones in Europe and Brasil. 
   - This section introduces the user to Fenix Drone Company with an eye catching animation to grab their attention. It looks that the drone is flying to you.
 
-  ![Landing Page]()
+  ![Landing Page](https://paste.pics/3ebea1b0050a3e91cd4f7e8493a41293)
 
 - __Expertise Section__
 
