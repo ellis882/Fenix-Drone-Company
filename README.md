@@ -14,20 +14,20 @@ In this section, you should go over the different parts of your project, and des
   - Featured on all four pages, the full responsive navigation bar includes links to the Logo, About page, Project page Gallery page and Contact page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-  ![Nav Bar](https://paste.pics/a224cdaae76530df1262e7989f13d582)
+  ![Nav Bar](../assets/images/navigation bar.png)
 
 - __The landing page image__
 
   - The landing includes an image with text overlay to allow the user to see that Fenix Drone Company is certified to fly in CTR-Zones in Europe and Brasil. 
   - This section introduces the user to Fenix Drone Company with an eye catching animation to grab their attention. It looks that the drone is flying to you.
 
-  ![Landing Page](https://paste.pics/3ebea1b0050a3e91cd4f7e8493a41293)
+  ![Landing Page](../assets/images/landing image page.png)
 
 - __Expertise Section__
 
   - The Expertise section will inform the user to see in which area's the company operates. This is important to know for which type of projects they can book Fenix Drone Company. It shows the area's of expertise which is important if working with a drone.
 
-  ![Expertise section]()
+  ![Expertise section](../assets/images/about section.png)
 
 - __Certifications section__
 
@@ -35,40 +35,40 @@ In this section, you should go over the different parts of your project, and des
   - The insurance ,if something would happen during the flight with a drone, is also important to have. It reduces the financial consequences of the risk if something might happen during the project.
   - This section will be updated when more certifications are achieved. 
 
-  ![Certification section]()
+  ![Certification section](../assets/images/certifications section.png)
 
 - __Equipment section__
 
   - This section will show the three different types of drones that are used during a project depending of the type of project.
   The drones have their own special features to make the job done in the best way with high quality. This gives the user a feeling of trust that their project will be a succes. Ofcourse the drone pilot makes the difference but you work faster and better with good equipment.
 
-  ![Equipment section]()
+  ![Equipment section](../assets/images/equipment section.png)
 
  - __Pricing section__
 
    - This section will show the user to see that we only work on POR (price on request). There are many variables at play. It's so locolized and so different based on the specific market in the different counrties in Europe and in Brasil, that it's hard to give a fixed price. A lot of things are considered in the price like; the level of expertise, the industry, the insurance coverage, travel surcharges (is a job out of the regular service area), pricing-per-acre (for the specific industry) instead of per-hour and market value and ROI (what problems does Fenix Drone Company solves and how much is that worth)
 
-   ![Pricing section]()
+   ![Pricing section](../assets/images/pricing section.png)
   
   - __The Footer__ 
 
    - The footer section includes links to the relevant social media sites for Fenix Drone Company. The links will open to a new tab to allow easy navigation for the user. 
    - The footer is valuable to the user as it encourages them to keep connected via social media. To ask the user to connect with us is a warm invitation on the end of every page.
 
-   ![Footer]()
+   ![Footer](../assets/images/footer.png)
 
 - __The Project Page__ 
 
    -This page shows some of the projects that Fenix Drone Company already did. It gives an idea to the user of what Fenix Drone Company is capable of and what type of drone services are provided.
    - On this page the user sees a picture of the project with a small description of the project.
 
-   ![Project Page]()
+   ![Project Page](../assets/images/projects section.png)
 
 - __The Promo statistics section__ 
 
    - This section will provide the user important information in a easy and fast way. It shows the facts, how many projects are really done by Fenix Drone Company, with how many partners they had worked. In this way you keep the user's interest and gain trust because they know what they can expect.
 
-   ![Promo statistics section]()
+   ![Promo statistics section](../assets/images/Promo statistics section.png)
 
 - __Gallery__
 
@@ -76,13 +76,13 @@ In this section, you should go over the different parts of your project, and des
   - This section is valuable to the user as they will be able to easily identify the types of projects and in what expertise area's Fenix Drone Company operates and in which countries.
   - The look and feel of this page is to make the user want to book a drone service with the Fenix Drone Company.
 
-  ![Gallery]()
+  ![Gallery](../assets/images/gallery page.png)
 
  - __The Contact Page__
 
   - This page will allow the user to get in contact with the Fenix Drone Company. They can send a message to make an appointment or ask information. The user will be asked to submit their full name and email address and if they are in Europe or Brasil. 
 
-  ![Contact Page]()
+  ![Contact Page](../assets/images/contact page.png)
 
 ### Features Left to Implement
 
@@ -103,7 +103,7 @@ In this section, you should go over the different parts of your project, and des
  __Pricing section__
  - The height of this section was changed to fit the text with background and it does not flow over to the footer.
 
--### For medium screen sizes from 950px wide and down
+-### **For medium screen sizes from 950px wide and down**
 
  - On the About, Gallary and Projects pages were made changes.
  On the About page the menu, cover text and certifications section were adjusted. 
@@ -125,7 +125,7 @@ __The Project Page__
  __Gallery__
  - The columns were set from 3 to 2 because of the space on the page. The text on the images were taken away because the images are to small to read the text on each image.
 
--### for medium to small screen sizes from 830px wide and down
+-### **for medium to small screen sizes from 830px wide and down**
 
 - On the about page and projects page changes were made to keep the flow of the website.
 
@@ -141,7 +141,7 @@ __Pricing section__
 __The Project Page__
  - The height was adjusted and had made the overflow to scroll because of the sizes of the images and had put the column count to one.
 
--### small screen sizes from 470px wide and down 
+-### **small screen sizes from 470px wide and down** 
 
  -On the about page and projects page at the promo statistics section changes were made to keep the flow of the website in the same way.
 
