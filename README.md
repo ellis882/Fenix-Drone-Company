@@ -171,7 +171,7 @@ __The Promo statistics section__
   - Following errors were found when passing through the official [(Jigsaw) validator]()
 
 ### Lighthouse Testing
- - Had put the website on LightHouse testing. 
+ - Had put the website on LightHouse testing. Had made a printscreen of that [lighthouse](/workspace/Fenix-Drone-Company/assets/images/light house.png)
 
 ### Unfixed Bugs
 
@@ -208,6 +208,8 @@ In the content section you can find all the sources were i got my information fr
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 - Idea of a promo statistics section was taken from [w3 Schools, specific from the templates files](https://www.w3schools.com/w3css/tryw3css_templates_startup.htm)
+
+- Pricing is a tricky part because there are a lot of things to consider for making a price. Information to consider i took from [DroneLife](https://dronelife.com/2017/05/31/professional-operators-price-drone-services/)
 
 ### Media
 
