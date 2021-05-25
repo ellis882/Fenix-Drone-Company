@@ -322,46 +322,21 @@ hr{
   padding: 1px; 
 }
 
-  /* Pricing Card */
-
-  #pricing{
-    clear: both;
-    height: 400px;
-    background-color: rgba(121,88,12,.7);    
-}
-
-  #card{
-     margin: auto;
-     padding: 20px;  
-     width: 30%;       
-     margin-top: 40px;  
-}
-
-  #card, h3, li{
-     text-align: center;
-    
-}
-
-  #card h3{
-     font-size: 150%;
-     
-     
-}
-
-#card a{
-  text-decoration: none;
-}
-
-  .delivery-package{
-     list-style-type: none;
-     font-size: 150%;
-}
-
+  
 /* footer */
 
   footer{
     height: 150px;    
       
+  }
+
+  footer p{    
+    text-transform: uppercase;    
+  }
+
+  footer a{
+    text-decoration: none;
+    color: rgba(121,88,12,.7);
   }
 
   footer h2{
@@ -433,6 +408,8 @@ hr{
   .promo-one{
      display: inline-block;
      width: 24%;
+     text-align: center;
+     margin-right: -18px;
 }
 
 .promo-one h3{
@@ -517,18 +494,19 @@ position: relative;
     background: url('../images/contact-page-image.jpg');
     background-size: cover;
     background-position: center;
-    height: 600px;
+    height: 700px;
     opacity: 0.8;    
 
 }
 
   .contact-form{
     margin: 35px;
+    margin-top: 60px;
     color: #fafafa;
     background-color: rgba(121,88,12,.7);
-    max-width: 400px;
+    width: 500px;
     position: absolute;
-    left: 10%;
+    left: 5%;
     padding: 25px;
     font-family: Open Sans Condensed, sans-serif;
 }
@@ -537,6 +515,12 @@ position: relative;
     color: #fafafa;
     margin-bottom: 20px;
 }
+
+  .contact-form > textarea{
+  height: 50px;
+  
+}
+
 
   .text-input{
     background: transparent;
@@ -642,9 +626,6 @@ position: relative;
     text-align: center;
     margin-bottom: 20px;
   }
-
-  
-
   
 }
 
@@ -817,22 +798,104 @@ position: relative;
     margin-bottom: 20px;
   }
 
+  #certifications{
+    height: 700px;
+  }
+
   #certifications-list{
     position: inherit;
     background: none;
     
   }
 
-  #left-drone, #right-drone, #center-drone{
-    width: 150px;
-    height: 150px;
+  #certifications-heading{
+    margin: 5px;
+  }
+
+  .title-two{
+    margin: 5px;
+  }
+
+  .circle{
+    width: 100px;
+    height: 100px;
+    margin-right: 15px;
+  }
+
+  #left-drone, #right-drone{
+    padding-left: 0;
+  }
+
+  #left-drone h2, #right-drone h2, #center-drone h2{
+    margin-top: 10px;
+  } 
+
+  #left-drone p, #right-drone p, #center-drone p{
+    padding-left: 32px;
+    padding-right: 34px;
+  }
+
+  .title{
+    margin-bottom: 0;
+  }
+
+  .social-networks{
+    height: 100px;
+    margin: auto;
+    font-size: 20px;
+    
+  }
+
+  .social-networks li{
+    height: 10px;
+  }
+
+  footer > h2{
+    display: none;
   }
 
   /* project page */
+
+  #projects{
+    margin-left: 0;
+  }
+
+.column-one, .column-two{
+  margin: 10px;
+}
+
   #promo-statistics{
     height: 200px;
     display: table-row;
   }
+
+  .promo-one h3{
+    line-height: 20px;
+  }
+
+  .promo-one{
+    width: 100%;
+    text-align: center;
+    padding-bottom: 10px;
+  }
+
+  footer{
+    height: auto;
+  }
+
+  /* Gallery */
+
+  #photos{
+    column-count: 1;
+    margin: 10px;
+  }
+
+    /* Contact form */
+.contact-form{
+  width: 200px;
+  margin-left: 6%;
+}
+
 }
 
 
