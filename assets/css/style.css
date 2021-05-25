@@ -360,13 +360,14 @@ hr{
 /* footer */
 
   footer{
-    height: 200px;    
+    height: 150px;    
       
   }
 
-  .footer{
-    margin-top: 20px;
-    text-align: center;         
+  footer h2{
+    margin-top: 40px;
+    text-align: center; 
+    margin-bottom: -50px;        
   }
 
   .social-networks{
@@ -389,7 +390,8 @@ hr{
   /* projects we had done */
 
    #projects{
-    clear: both;       
+    clear: both;
+    margin: 20px;       
   }
 
    #projects-title{
@@ -418,6 +420,7 @@ hr{
     
   }
 
+  
   /* projects promo section statistics */
   
   #promo-statistics{
@@ -561,6 +564,7 @@ position: relative;
 /* company details at contact page */
 
 #company-details{
+    height: 250px;
     margin-top: 20px;
     margin-bottom: 20px;
 }
@@ -775,18 +779,42 @@ position: relative;
 
 @media screen and (max-width: 470px) {
   /* about page */
+
+  #logo{
+    line-height: 50px;
+    text-align: center;
+
+  }
+
+  #menu{
+    margin-left: 80px;
+  }
+
   #cover-text{
     width: 200px;
     height: 300px;
+    margin-right: 45px;
+    margin-bottom: 100px;
   }
 
   #expertise{
-    height: 1350px;
+    height: 1150px;
   }
 
+  
   #circle-container{
     padding: inherit;
-    width: auto;
+    
+    width: 200px;
+    height: 200px;
+  }
+
+  .left-about-heading{
+    margin-bottom: 20px;
+  }
+
+  .right-about-heading{
+    margin-bottom: 20px;
   }
 
   #certifications-list{
@@ -795,8 +823,9 @@ position: relative;
     
   }
 
-  #pricing{
-    height: 650px;
+  #left-drone, #right-drone, #center-drone{
+    width: 150px;
+    height: 150px;
   }
 
   /* project page */
