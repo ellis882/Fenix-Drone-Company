@@ -344,6 +344,12 @@ hr{
 
   #card h3{
      font-size: 150%;
+     
+     
+}
+
+#card a{
+  text-decoration: none;
 }
 
   .delivery-package{
