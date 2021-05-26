@@ -8,7 +8,7 @@
 
 body{
     font-family: Oswald, sans-serif;
-    font-weight: 300px;
+    font-weight: 300;
     color: #3a3a3a;
     
 }
@@ -52,11 +52,11 @@ h1, h2, h3{
 }
 
 #menu a:hover{
-    border-bottom: 1px solid rgba(121,88,12,.7);
+    border-bottom: 1px solid rgba(121,88,12,0.7);
 }
 
 .active{
-    border-bottom: 1px solid rgba(121,88,12,.7);
+    border-bottom: 1px solid rgba(121,88,12,0.7);
 }
 
 /* landing page image */
@@ -119,7 +119,7 @@ h1, h2, h3{
     padding-top: 40px;
     padding-left: 20px;    
 
-    background-color: rgba(121,88,12,.7);
+    background-color: rgba(121,88,12,0.7);
 
     bottom: 30px;
     right: 150px;
@@ -257,7 +257,7 @@ hr{
     padding-top: 40px;
     padding-left: 10px;    
 
-    background-color: rgba(121,88,12,.7);
+    background-color: rgba(121,88,12,0.7);
 
     position: relative;
     bottom: 30px;
@@ -336,7 +336,7 @@ hr{
 
   footer a{
     text-decoration: none;
-    color: rgba(121,88,12,.7);
+    color: rgba(121,88,12,0.7);
   }
 
   footer h2{
@@ -404,7 +404,7 @@ hr{
   
   #promo-statistics{
     height: 150px;
-    background-color: rgba(121,88,12,.7);
+    background-color: rgba(121,88,12,0.7);
     margin-top: 30px;   
     
 }
@@ -440,44 +440,8 @@ hr{
     column-gap: 0;
 }
 
-#photos > .image1{
+#photos > .image{
   position: relative;  
-}
-
-#photos > .image2{
-  position: relative;        
-}
-
-#photos > .image3{
-  position: relative;
-}
-
-#photos > .image4{
-  position: relative;
-}
-
-#photos > .image5{
-  position: relative;
-}
-
-#photos > .image6{
-  position: relative;
-}
-
-#photos > .image7{
-  position: relative;
-}
-
-#photos > .image8{
-  position: relative;
-}
-
-#photos > .image9{
-  position: relative;
-}
-
-#photos > .image10{
-position: relative;
 }
 
 .text p{
@@ -507,7 +471,7 @@ position: relative;
     margin: 35px;
     margin-top: 60px;
     color: #fafafa;
-    background-color: rgba(121,88,12,.7);
+    background-color: rgba(121,88,12,0.7);
     width: 500px;
     position: absolute;
     left: 5%;
