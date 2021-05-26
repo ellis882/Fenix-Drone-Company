@@ -1,4 +1,4 @@
-e# Fenix Drone Company
+## Fenix Drone Company
 
 Fenix Drone Company is a website that is selling service of drone pilot in Europe and Brasil.
 With expertise in Inspections, Mining, Geo-& Mapping and Film & Photography. Useful information such as certifications, type of drones and which projects are done will be shown on the website as well as a contact form and company information. This should give the user a comfortable feeling to book a drone project with Fenix Drone Company.
@@ -6,7 +6,7 @@ With expertise in Inspections, Mining, Geo-& Mapping and Film & Photography. Use
 ![Responsice Mockup](/workspace/Fenix-Drone-Company/assets/images/Ipad shot.png)(/workspace/Fenix-Drone-Company/assets/images/Mobile shot.png)
 
 ## Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+
 
 ### Existing Features
 
@@ -14,7 +14,7 @@ In this section, you should go over the different parts of your project, and des
   - Featured on all four pages, the full responsive navigation bar includes links to the Logo, About page, Project page Gallery page and Contact page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-  ![Nav Bar](/workspace/Fenix-Drone-Company/assets/images/navigation bar.png)
+  ![Nav Bar](../workspace/Fenix-Drone-Company/assets/images/navigation bar.png)
 
 - __The landing page image__
 
@@ -214,6 +214,27 @@ In the content section you can find all the sources were i got my information fr
 - The photos/ Images used on the website are all taken from Unsplash, Free Images. Because the website is fiction i had no acces to video or real images. If the website was real i would use short video's of the projects that were done by the company and different images of the drones we use and gallery page. Now i had used images for the look and feel of the company.
 
 - Videos for drone users i watched to get inspired [youtube](https://youtu.be/v0TeCv4eqyc) (https://youtu.be/i3V2L1XHZcA)
+
+## Technoligies used
+
+-[HTML5]()
+HTML5 was used to make the structure of the website
+-[CSS3]()
+CSS3 was used to add style to the website
+-[Googlefonts]()
+Google fonts was used to import "Oswald en Open Sans Condensed" as font family for the website
+-[FontAwesome]()
+Font Awesome was used to add icons to the website for styling of the website
+-[Git]
+The Git command was used to save and push the project from Gitpod to Gidhub
+-[Github]()
+Github is used to store the project
+-[W3C validator]()
+W3C validator was used for testing the HTML of the website on errors
+-[(Jigsaw) validator]()
+Jigsaw validator was used for testing the CSS of the website on errors
+-[Lighthouse]()
+Lighthouse was used to test the website to identify common problems that effect the site's performance, accesebilities and user experience
 
 ## Extra info about the project
 
