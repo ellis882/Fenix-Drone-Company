@@ -362,6 +362,10 @@ hr{
       
   }
 
+  .top{
+    margin-top: -50px;
+  }
+
   /* projects we had done */
 
    #projects{
@@ -689,10 +693,6 @@ position: relative;
     margin-top: 90px;
   }
 
-  #pricing{
-  height: 450px;
-}
-
   /* gallery page */
   #photos{
     column-count: 2;
@@ -726,10 +726,6 @@ position: relative;
     padding: 0;
   }
 
-  .footer{
-    padding: 0;
-  }
-
   #certifications{
     height: 800px;
   }
@@ -738,8 +734,16 @@ position: relative;
     margin-top: 150px;
   }
 
-  #pricing{
-    height: 550px;
+  footer{
+    padding: 0;
+  }
+
+  footer h2{
+    margin-bottom: 0;
+  }
+  
+  .top{
+    margin-top: 0
   }
 
   /* projects page */
@@ -752,6 +756,18 @@ position: relative;
   .column-one, .column-two{
     column-count: 1;
     height: auto;
+    padding-right: 50px;
+  }
+
+  .column-one p, .column-two p{
+    margin-bottom: 20px;
+    line-height: 20px;
+  }
+
+  /* Gallery page */
+  #photos{
+    margin-left: 20px;
+    margin-right: 20px;
   }
 
 }
@@ -779,7 +795,7 @@ position: relative;
   }
 
   #expertise{
-    height: 1150px;
+    height: 1100px;
   }
 
   
@@ -862,6 +878,7 @@ position: relative;
 
 .column-one, .column-two{
   margin: 10px;
+  padding-right: 0;
 }
 
   #promo-statistics{
