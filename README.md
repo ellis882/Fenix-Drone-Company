@@ -28,15 +28,33 @@ The idea to come up with this project to make a website for drone services came 
 - As a regular customer, I want to get in touch with the company.
 - As a potential client, I would like to see what the company can do and already did on projects.
 
+#### 1.3. Design
+
+-	The fact content that is shown on the website (such as the certifications and projects, gallery page) proofs ability that the drone service will be done in a professional way and that gives the user a confident feeling to book the drone service.
+
+-	The color brown that is used throughout the pages will give the user a feeling of trust, comfort and reliability which is important if you want to book a service. It gives a trusting feeling. 
+[had found this information](https://significadodeloscolores.com/nl/betekenis-van-bruine-kleur}
+
+-	The image with zoom effect that is used on the about page is chosen because it looks as if the drone is flying towards the user. This is an interactive way of introducing the user with the company.
+
+-	At the contact page, which is the last page, an image on the background with someone that controls a drone that flies away is chosen because it shows in the users mind that the contact form is sending to the company.
+
+-	 The beginning and end images are especially chosen to give the user a signal of what the company represents. Goal is that the user is comfortable to book a drone service for a project with the company. Comfortable because the company is reliable, professional and good to work together with. The combination of colors and images that are used needs to come together to make a good users experience. The use of more images than text is chosen because good images says more than a lot of words and reach the emotional part of people. Which make them more willingly to ask more information or to book a drone service.
+[Reading material to consider]
+(https://resources.nuagency.com/blog/marketing/the-importance-of-images-in-marketing)
+
+-	The simplicity of the website makes it easier for the user to find the information they want/need to know before booking a drone service. 
+
 #### 1.3. Wireframes
+
 The wireframes were designed using [Balsamiq](https://balsamiq.com/). They're accessible in the following links:
 
 |    Desktop   |    Tablet    |    Mobile    |
 |    :----:    |     :----:   |    :----:    |
-|[About Page]()|[About Page]()|[About Page]()|
-|[Projects Page]()|[Projects Page]()|[Projects Page]()|
-|[Gallery Page]()|[Gallery Page]()|[Gallery Page]()|
-|[Contact Page]()|[Contact Page]()|[Contact Page]()|
+|[About Page](/workspace/Fenix-Drone-Company/wireframes/desktop/About Page Desktop.png)|[About Page](/workspace/Fenix-Drone-Company/wireframes/tablet/About page Tablet.png)|[About Page](/workspace/Fenix-Drone-Company/wireframes/mobile/About page Mobile.png)|
+|[Projects Page](/workspace/Fenix-Drone-Company/wireframes/desktop/Project page Desktop.png)|[Projects Page](/workspace/Fenix-Drone-Company/wireframes/tablet/Projects page Tablet .png)|[Projects Page](/workspace/Fenix-Drone-Company/wireframes/mobile/Projects page Mobile .png)|
+|[Gallery Page](/workspace/Fenix-Drone-Company/wireframes/desktop/Gallery page Desktop.png)|[Gallery Page](/workspace/Fenix-Drone-Company/wireframes/tablet/Gallery page Tablet  .png)|[Gallery Page](/workspace/Fenix-Drone-Company/wireframes/mobile/Gallery page Mobile  .png)|
+|[Contact Page](/workspace/Fenix-Drone-Company/wireframes/desktop/Contact page Desktop.png)|[Contact Page](/workspace/Fenix-Drone-Company/wireframes/tablet/Contact page Tablet  .png)|[Contact Page](/workspace/Fenix-Drone-Company/wireframes/mobile/Contact page Mobile  .png)|
 
 
 ---
@@ -159,22 +177,7 @@ used to show in a quick visual way the responsiveness of the site
 
 ## 4. Testing 
 
-he testing process can be seen [here]()
-
-
-### 4.1 Validator Testing 
-
-- HTML
-  - Following errors were returned when passing through the official [W3C validator]()
-
-
-- CSS
-  - Following errors were found when passing through the official [(Jigsaw) validator]()
-
-### Lighthouse Testing
- - Had put the website on LightHouse testing. Had made a printscreen of that [lighthouse](/workspace/Fenix-Drone-Company/assets/images/light house.png)
-
-### Unfixed Bugs
+The testing process can be seen [here]()
 
 ---
 
@@ -229,51 +232,21 @@ In the content section you can find all the sources were i got my information fr
 
 - Videos for drone users i watched to get inspired [youtube](https://youtu.be/v0TeCv4eqyc) (https://youtu.be/i3V2L1XHZcA)
 
+### Acknowledgements
+
+- My Mentor for continuous helpful feedback.
+
+- Tutor support at Code Institute for their support
 
 
-## Extra info about the project
 
-- The idea to come up with this project to make a website for drone services came because my partner is doing the certificates to become a drone pilot both in the Netherlands as in Brasil. At the moment this website is fiction but it could become real. With this project i hope to have a good base to build a custom made website in the future.
-- I believe that the drone business in the future will become more and more important. Therefore it is a very topical issue and nice to think about a responsive website that provides in the need of user.
 
-### Questions to think about before making a website
 
-#### What is worth doing?
 
-- 	Make a website for drone services that are used in different expertise area’s
 
-#### What are we creating?
 
--	Make a custom build site.
 
--	An attractive website that provides drone services.
 
--	A website that shows the company is certified and have insurance to provide drone services for the specific area’s of expertise that need drone services for their projects.
-
--	A website that shows which equipment (drones) they use to make the best quality of  their work.
-
--	Projects that were done by the company to show some work.
-
--	A promotion section which shows the statistics/facts that the company successfully did.
-
--	A contact form that allows the user to book a drone service or ask specific information to the company.
-
-####	What Value does it provide?
-
--	The fact content that is shown on the website (such as the certifications and projects, gallery page) proofs ability that the drone service will be done in a professional way and that gives the user a confident feeling to book the drone service.
-
--	The color brown that is used throughout the pages will give the user a feeling of trust, comfort and reliability which is important if you want to book a service. It gives a trusting feeling. 
-[had found this information](https://significadodeloscolores.com/nl/betekenis-van-bruine-kleur}
-
--	The image with zoom effect that is used on the about page is chosen because it looks as if the drone is flying towards the user. This is an interactive way of introducing the user with the company.
-
--	At the contact page, which is the last page, an image on the background with someone that controls a drone that flies away is chosen because it shows in the users mind that the contact form is sending to the company.
-
--	 The beginning and end images are especially chosen to give the user a signal of what the company represents. Goal is that the user is comfortable to book a drone service for a project with the company. Comfortable because the company is reliable, professional and good to work together with. The combination of colors and images that are used needs to come together to make a good users experience. The use of more images than text is chosen because good images says more than a lot of words and reach the emotional part of people. Which make them more willingly to ask more information or to book a drone service.
-[Reading material to consider]
-(https://resources.nuagency.com/blog/marketing/the-importance-of-images-in-marketing)
-
--	The simplicity of the website makes it easier for the user to find the information they want/need to know before booking a drone service. 
 
 
 
