@@ -1,33 +1,69 @@
-## Fenix Drone Company
+# Fenix Drone Company
 
-Fenix Drone Company is a website that is selling service of drone pilot in Europe and Brasil.
+![Fenix Drone Company]()
+
+Fenix Drone Company is a fictional website that is selling service of drone pilot in Europe and Brasil.
 With expertise in Inspections, Mining, Geo-& Mapping and Film & Photography. Useful information such as certifications, type of drones and which projects are done will be shown on the website as well as a contact form and company information. This should give the user a comfortable feeling to book a drone project with Fenix Drone Company.
 
-![Responsice Mockup](/workspace/Fenix-Drone-Company/assets/images/Ipad shot.png)(/workspace/Fenix-Drone-Company/assets/images/Mobile shot.png)
+You can visit the deployed website [Here](https://ellis882.github.io/Fenix-Drone-Company/)
 
-## Features
+---
+
+## 1. UX
+
+#### 1.1. Project Goals
+
+The idea to come up with this project to make a website for drone services came because my partner is doing the certificates to become a drone pilot both in the Netherlands as in Brasil. At the moment this website is fiction but it could become real. With this project i hope to have a good base to build a custom made website in the future in different languages.
+
+#### 1.2. User Stories
+
+- As an owner of the company, I want to show what we already did and can do to gain more drone projects.
+- As an owner of the company, I want to offer the possibility to give more information about the drone services we do.
+- As an owner of the company, I want my website to be attractive and show the user that we are quilified to do specific drone  projects which requires expertise.
+
+- As a user, I want to be able to get in touch with the company.
+- As a user, I want to be able to check what they already did on projects and if they are quilified.
+
+- As a person needing a drone service for a special field of expertise, I want to be able to see what the company already did and with what type of equipmemt they work for my project to become a succes.
+- As a regular customer, I want to get in touch with the company.
+- As a potential client, I would like to see what the company can do and already did on projects.
+
+#### 1.3. Wireframes
+The wireframes were designed using [Balsamiq](https://balsamiq.com/). They're accessible in the following links:
+
+|    Desktop   |    Tablet    |    Mobile    |
+|    :----:    |     :----:   |    :----:    |
+|[About Page]()|[About Page]()|[About Page]()|
+|[Projects Page]()|[Projects Page]()|[Projects Page]()|
+|[Gallery Page]()|[Gallery Page]()|[Gallery Page]()|
+|[Contact Page]()|[Contact Page]()|[Contact Page]()|
 
 
-### Existing Features
+---
+
+## 2.Features
+
+
+### 2.1. Existing Features
 
 - __Navigation Bar__
   - Featured on all four pages, the full responsive navigation bar includes links to the Logo, About page, Project page Gallery page and Contact page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-  ![Nav Bar](../workspace/Fenix-Drone-Company/assets/images/navigation bar.png)
+  ![Nav Bar]()
 
 - __The landing page image__
 
   - The landing includes an image with text overlay to allow the user to see that Fenix Drone Company is certified to fly in CTR-Zones in Europe and Brasil. 
   - This section introduces the user to Fenix Drone Company with an eye catching animation to grab their attention. It looks that the drone is flying to you.
 
-  ![Landing Page](/workspace/Fenix-Drone-Company/assets/images/landing image page.png)
+  ![Landing Page]()
 
 - __Expertise Section__
 
   - The Expertise section will inform the user to see in which area's the company operates. This is important to know for which type of projects they can book Fenix Drone Company. It shows the area's of expertise which is important if working with a drone.
 
-  ![Expertise section](/workspace/Fenix-Drone-Company/assets/images/about section.png)
+  ![Expertise section]()
 
 - __Certifications section__
 
@@ -35,14 +71,14 @@ With expertise in Inspections, Mining, Geo-& Mapping and Film & Photography. Use
   - The insurance ,if something would happen during the flight with a drone, is also important to have. It reduces the financial consequences of the risk if something might happen during the project.
   - This section will be updated when more certifications are achieved. 
 
-  ![Certification section](/workspace/Fenix-Drone-Company/assets/images/certifications section.png)
+  ![Certification section]()
 
 - __Equipment section__
 
   - This section will show the three different types of drones that are used during a project depending of the type of project.
   The drones have their own special features to make the job done in the best way with high quality. This gives the user a feeling of trust that their project will be a succes. Ofcourse the drone pilot makes the difference but you work faster and better with good equipment.
 
-  ![Equipment section](/workspace/Fenix-Drone-Company/assets/images/equipment section.png)
+  ![Equipment section]()
 
  - __Pricing section__
 
@@ -57,20 +93,20 @@ With expertise in Inspections, Mining, Geo-& Mapping and Film & Photography. Use
    - The footer is valuable to the user as it encourages them to keep connected via social media. To ask the user to connect with us is a warm invitation on the end of every page.
    - There is also a top icon to go back easy to the top of the page.
 
-   ![Footer](/workspace/Fenix-Drone-Company/assets/images/footer.png)
+   ![Footer]()
 
 - __The Project Page__ 
 
    -This page shows some of the projects that Fenix Drone Company already did. It gives an idea to the user of what Fenix Drone Company is capable of and what type of drone services are provided.
    - On this page the user sees a picture of the project with a small description of the project.
 
-   ![Project Page](/workspace/Fenix-Drone-Company/assets/images/projects section.png)
+   ![Project Page]()
 
 - __The Promo statistics section__ 
 
    - This section will provide the user important information in a easy and fast way. It shows the facts, how many projects are really done by Fenix Drone Company, with how many partners they had worked. In this way you keep the user's interest and gain trust because they know what they can expect.
 
-   ![Promo statistics section](/workspace/Fenix-Drone-Company/assets/images/Promo statistics section.png)
+   ![Promo statistics section]()
 
 - __Gallery__
 
@@ -78,90 +114,55 @@ With expertise in Inspections, Mining, Geo-& Mapping and Film & Photography. Use
   - This section is valuable to the user as they will be able to easily identify the types of projects and in what expertise area's Fenix Drone Company operates and in which countries.
   - The look and feel of this page is to make the user want to book a drone service with the Fenix Drone Company.
 
-  ![Gallery](/workspace/Fenix-Drone-Company/assets/images/gallery page.png)
+  ![Gallery]()
 
  - __The Contact Page__
 
   - This page will allow the user to get in contact with the Fenix Drone Company. They can send a message to make an appointment or ask information. The user will be asked to submit their full name and email address and if they are in Europe or Brasil. 
 
-  ![Contact Page](/workspace/Fenix-Drone-Company/assets/images/contact page.png)
+  ![Contact Page]()
 
-### Features Left to Implement
+### 2.2. Features Left to Implement
 
   - Plan is to make the website in a multi languages site because of the different countries we operate. Need to do research of what and how the best way is, to do that. Maybe it is better to make a total different one in context of custom building.
+  - contact the user when the had send a message in contact form
 
-## Testing 
+  ---
 
--### **For larger to medium screens size from 1200px wide and down** 
+  ## 3. Technoligies used
 
- - On the About page changes where made in the Expertise section and Equipment section to maintane the look and feel of the page.
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+HTML5 was used to make the structure of the website
 
-  __Expertise Section__
- - The left, right about text and image in the center where floated to the left and the height was changed to see al the content at the center of the page, below eachother. In this way the text stays clear and the image was set on the bottom of the section.
+- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+CSS3 was used to add style to the website
 
- __Equipment section__
- - The three images with text of the drones were set on top of eachother to keep a clear view of the images.
+- [Googlefonts](https://fonts.google.com/)
+Google fonts was used to import "Oswald en Open Sans Condensed" as font family for the website
 
- -### **For medium screen sizes from 950px wide and down**
+- [FontAwesome](https://fontawesome.com/)
+Font Awesome was used to add icons to the website for styling of the website
 
- - On the About, Gallary and Projects pages were made changes.
- On the About page the menu, cover text and certifications section were adjusted. 
- On the Projects page adjustments were made in the projects section.
- On the Gallery page the images were set different.
+- [Gitpod]((https://gitpod.io/)
+used to develop the website
 
-__Navigation section__ 
- - The menu was set to the left below the logo to maintane a clear view of the website.
+- [Github](https://github.com/)
+Github is used to store/host the project
 
-__The landing page image__
- - The overlay cover text was set to the right to keep a clear view of it.
+- [Balsamiq](https://balsamiq.com/) 
+used to create the project's wireframes
 
-__Certifications Section__
- - The headings were floated to the left on this section to maintane enough space to see the headings clear.
+- [Am I Responsive?](http://ami.responsivedesign.is/)
+used to show in a quick visual way the responsiveness of the site
 
-__The Project Page__
- - The height and font-size was adjusted to fit the page and keep a clear view of the content.
+---
 
- __Gallery__
- - The columns were set from 3 to 2 because of the space on the page. The text on the images were taken away because the images are to small to read the text on each image.
+## 4. Testing 
 
--### **for medium to small screen sizes from 830px wide and down**
-
-- On the about page and projects page and gallery page changes were made to keep the flow of the website.
-
-__Expertise Section__
- - The height was adjusted to keep the content on the section.
-
-__Certifications Section__
-- The height was adjusted to keep the content on the section.
-
-__The Project Page__
- - The height was adjusted and had made the overflow to scroll because of the sizes of the images and had put the column count to one.
-
-__The Gallery__
- - margin left and right for a better view.
+he testing process can be seen [here]()
 
 
--### **small screen sizes from 470px wide and down** 
-
- -On the about page and projects page at the promo statistics section and gallery changes were made to keep the flow of the website in the same way.
-
-__The landing page image__
- - The overlay cover text was made smaller to keep a clear view of it.
-
-__Expertise Section__
- - The height was adjusted to keep the content on the section. And the circle container was adjusted.
-
-__Certifications Section__
-- Removed the background color of the checklist and put the checklist under the heading. 
-
-__The Promo statistics section__ 
- - The height and display were changed to keep the content on the section.
-
-__The Gallery__
- - The column count was set to one and margin ajusted.
-
-
-### Validator Testing 
+### 4.1 Validator Testing 
 
 - HTML
   - Following errors were returned when passing through the official [W3C validator]()
@@ -175,9 +176,11 @@ __The Gallery__
 
 ### Unfixed Bugs
 
+---
 
+## 5. Deployment 
 
-## Deployment 
+**To deploy the project**
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
@@ -186,12 +189,23 @@ __The Gallery__
 
 The live link can be found here -  (https://ellis882.github.io/Fenix-Drone-Company/)
 
+**To clone the project**
 
-## Credits 
+- Under the repository’s name, click **Clone or download**.
+- In the **Clone with hTTPS** section, copy the given URL.
+- In your IDE of choice, open **Git Bash**.
+-  Change the current working directory to the location where you want the cloned directory to be made.
+- Type **git clone**, and then paste the URL copied from GitHub.
+- Press **enter** and the local clone will be created.
+
+---
+
+
+## 6. Credits 
 
 In the content section you can find all the sources were i got my information from. I had used a lot of google serach to get the information i needed for my website and to solve difficulties while making the website. 
 
-### Content 
+### 6.1 Content 
 
 - The text for the Expertise- and Projects section and a bit for the Certifications list was taken from the website of the [Dutch Drone Company] (https://www.dutchdronecompany.com/)
 
@@ -215,34 +229,7 @@ In the content section you can find all the sources were i got my information fr
 
 - Videos for drone users i watched to get inspired [youtube](https://youtu.be/v0TeCv4eqyc) (https://youtu.be/i3V2L1XHZcA)
 
-## Technoligies used
 
-- [HTML5]()
-HTML5 was used to make the structure of the website
-
-- [CSS3]()
-CSS3 was used to add style to the website
-
-- [Googlefonts]()
-Google fonts was used to import "Oswald en Open Sans Condensed" as font family for the website
-
-- [FontAwesome]()
-Font Awesome was used to add icons to the website for styling of the website
-
-- [Git]
-The Git command was used to save and push the project from Gitpod to Gidhub
-
-- [Github]()
-Github is used to store the project
-
-- [W3C validator]()
-W3C validator was used for testing the HTML of the website on errors
-
-- [(Jigsaw) validator]()
-Jigsaw validator was used for testing the CSS of the website on errors
-
-- [Lighthouse]()
-Lighthouse was used to test the website to identify common problems that effect the site's performance, accesebilities and user experience
 
 ## Extra info about the project
 
