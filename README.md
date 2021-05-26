@@ -217,23 +217,31 @@ In the content section you can find all the sources were i got my information fr
 
 ## Technoligies used
 
--[HTML5]()
+- [HTML5]()
 HTML5 was used to make the structure of the website
--[CSS3]()
+
+- [CSS3]()
 CSS3 was used to add style to the website
--[Googlefonts]()
+
+- [Googlefonts]()
 Google fonts was used to import "Oswald en Open Sans Condensed" as font family for the website
--[FontAwesome]()
+
+- [FontAwesome]()
 Font Awesome was used to add icons to the website for styling of the website
--[Git]
+
+- [Git]
 The Git command was used to save and push the project from Gitpod to Gidhub
--[Github]()
+
+- [Github]()
 Github is used to store the project
--[W3C validator]()
+
+- [W3C validator]()
 W3C validator was used for testing the HTML of the website on errors
--[(Jigsaw) validator]()
+
+- [(Jigsaw) validator]()
 Jigsaw validator was used for testing the CSS of the website on errors
--[Lighthouse]()
+
+- [Lighthouse]()
 Lighthouse was used to test the website to identify common problems that effect the site's performance, accesebilities and user experience
 
 ## Extra info about the project
