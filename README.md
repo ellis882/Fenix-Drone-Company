@@ -46,14 +46,16 @@ In this section, you should go over the different parts of your project, and des
 
  - __Pricing section__
 
-   - This section will show the user to see that we only work on POR (price on request). There are many variables at play. It's so locolized and so different based on the specific market in the different counrties in Europe and in Brasil, that it's hard to give a fixed price. A lot of things are considered in the price like; the level of expertise, the industry, the insurance coverage, travel surcharges (is a job out of the regular service area), pricing-per-acre (for the specific industry) instead of per-hour and market value and ROI (what problems does Fenix Drone Company solves and how much is that worth)
+   - On the website we ask the user to contact us for a pricing. 
+    There are many variables at play. It's so locolized and so different based on the specific market in the different counrties in Europe and in Brasil, that it's hard to give a fixed price. A lot of things are considered in the price like; the level of expertise, the industry, the insurance coverage, travel surcharges (is a job out of the regular service area), pricing-per-acre (for the specific industry) instead of per-hour and market value and ROI (what problems does Fenix Drone Company solves and how much is that worth)
 
-   ![Pricing section](/workspace/Fenix-Drone-Company/assets/images/pricing section.png)
+   ![Pricing section]()
   
   - __The Footer__ 
 
    - The footer section includes links to the relevant social media sites for Fenix Drone Company. The links will open to a new tab to allow easy navigation for the user. 
    - The footer is valuable to the user as it encourages them to keep connected via social media. To ask the user to connect with us is a warm invitation on the end of every page.
+   - There is also a top icon to go back easy to the top of the page.
 
    ![Footer](/workspace/Fenix-Drone-Company/assets/images/footer.png)
 
@@ -86,13 +88,13 @@ In this section, you should go over the different parts of your project, and des
 
 ### Features Left to Implement
 
-  - Plan is to make the website in a multi languages sites because of the different countries we operate. Need to do research of what and how the best way is, to do that. 
+  - Plan is to make the website in a multi languages site because of the different countries we operate. Need to do research of what and how the best way is, to do that. Maybe it is better to make a total different one in context of custom building.
 
 ## Testing 
 
 -### **For larger to medium screens size from 1200px wide and down** 
 
- - On the About page changes where made in the Expertise section and Equipment section and Pricing section to maintane the look and feel of the page.
+ - On the About page changes where made in the Expertise section and Equipment section to maintane the look and feel of the page.
 
   __Expertise Section__
  - The left, right about text and image in the center where floated to the left and the height was changed to see al the content at the center of the page, below eachother. In this way the text stays clear and the image was set on the bottom of the section.
@@ -100,10 +102,7 @@ In this section, you should go over the different parts of your project, and des
  __Equipment section__
  - The three images with text of the drones were set on top of eachother to keep a clear view of the images.
 
- __Pricing section__
- - The height of this section was changed to fit the text with background and it does not flow over to the footer.
-
--### **For medium screen sizes from 950px wide and down**
+ -### **For medium screen sizes from 950px wide and down**
 
  - On the About, Gallary and Projects pages were made changes.
  On the About page the menu, cover text and certifications section were adjusted. 
@@ -127,7 +126,7 @@ __The Project Page__
 
 -### **for medium to small screen sizes from 830px wide and down**
 
-- On the about page and projects page changes were made to keep the flow of the website.
+- On the about page and projects page and gallery page changes were made to keep the flow of the website.
 
 __Expertise Section__
  - The height was adjusted to keep the content on the section.
@@ -135,15 +134,16 @@ __Expertise Section__
 __Certifications Section__
 - The height was adjusted to keep the content on the section.
 
-__Pricing section__
-- The height was adjusted to keep the content on the section.
-
 __The Project Page__
  - The height was adjusted and had made the overflow to scroll because of the sizes of the images and had put the column count to one.
 
+__The Gallery__
+ - margin left and right for a better view.
+
+
 -### **small screen sizes from 470px wide and down** 
 
- -On the about page and projects page at the promo statistics section changes were made to keep the flow of the website in the same way.
+ -On the about page and projects page at the promo statistics section and gallery changes were made to keep the flow of the website in the same way.
 
 __The landing page image__
  - The overlay cover text was made smaller to keep a clear view of it.
@@ -154,11 +154,11 @@ __Expertise Section__
 __Certifications Section__
 - Removed the background color of the checklist and put the checklist under the heading. 
 
-__Pricing section__
-- The height was adjusted to keep the content on the section.
-
 __The Promo statistics section__ 
  - The height and display were changed to keep the content on the section.
+
+__The Gallery__
+ - The column count was set to one and margin ajusted.
 
 
 ### Validator Testing 
@@ -175,23 +175,21 @@ __The Promo statistics section__
 
 ### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
 
-## Deployment
 
- 
+## Deployment 
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here -  
+The live link can be found here -  (https://ellis882.github.io/Fenix-Drone-Company/)
 
 
 ## Credits 
 
-In the content section you can find all the sources were i got my information from. I had used a lot of google to get the information i needed for my website. 
+In the content section you can find all the sources were i got my information from. I had used a lot of google serach to get the information i needed for my website and to solve difficulties while making the website. 
 
 ### Content 
 
@@ -215,9 +213,11 @@ In the content section you can find all the sources were i got my information fr
 
 - The photos/ Images used on the website are all taken from Unsplash, Free Images. Because the website is fiction i had no acces to video or real images. If the website was real i would use short video's of the projects that were done by the company and different images of the drones we use and gallery page. Now i had used images for the look and feel of the company.
 
+- Videos for drone users i watched to get inspired [youtube](https://youtu.be/v0TeCv4eqyc) (https://youtu.be/i3V2L1XHZcA)
+
 ## Extra info about the project
 
-- The idea to come up with this project to make a website for drone services came because my partner is doing the certificates to become a drone pilot. At the moment this website is fiction but it could become real. With this project i hope to have a good base to build a custom made website in the future.
+- The idea to come up with this project to make a website for drone services came because my partner is doing the certificates to become a drone pilot both in the Netherlands as in Brasil. At the moment this website is fiction but it could become real. With this project i hope to have a good base to build a custom made website in the future.
 - I believe that the drone business in the future will become more and more important. Therefore it is a very topical issue and nice to think about a responsive website that provides in the need of user.
 
 ### Questions to think about before making a website
