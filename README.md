@@ -51,10 +51,7 @@ The idea to come up with this project to make a website for drone services came 
 
 |    Desktop   |    Tablet    |    Mobile    |
 |    :----:    |     :----:   |    :----:    |
-|[About Page](http://workspace/fenix-drone-company/wireframes/desktop/about page desktop.png)|[About Page](http://workspace/fenix-drone-company/wireframes/tablet//about page tablet.png)|[About Page](http://workspace/fenix-drone-company/wireframes/mobile/about page mobile.png)|
-|[Projects Page](http://workspace/fenix-drone-company/wireframes/desktop/project page desktop.png)|[Projects Page](http://workspace/fenix-drone-company/wireframes/tablet/projects page tablet .png)|[Projects Page](http://workspace/fenix-drone-company/wireframes/mobile/projects page mobile .png)|
-|[Gallery Page](http://workspace/fenix-drone-company/wireframes/desktop/gallery page desktop.png)|[Gallery Page](http://workspace/fenix-drone-company/wireframes/tablet/gallery page tablet  .png)|[Gallery Page](http://workspace/fenix-drone-company/wireframes/mobile/gallery page mobile  .png)|
-|[Contact Page](http://workspace/fenix-drone-company/wireframes/desktop/contact page desktop.png)|[Contact Page](http://workspace/fenix-drone-company/wireframes/tablet/contact page tablet  .png)|[Contact Page](http://workspace/fenix-drone-company/wireframes/mobile/contact page mobile  .png)|
+|
 
 
 ---
@@ -179,25 +176,25 @@ used to show in a quick visual way the responsiveness of the site
 
 ### 4.1. Code Validators
 
--[HTML Validator About](http://workspace/fenix-drone-company/readme.files/html validator about.png)
+-[HTML Validator About]()
 No errors just had put &amp instead of &amp; that was solved right away
 
--[HTML Validator Projects](http://workspace/fenix-drone-company/readme.files/html validator projects.png)
+-[HTML Validator Projects]()
 No errors found
 In my HTML i had add style at the images for "height:auto;width:100%;" to avoid error. 
 
--[HTML Validator Gallery](http://workspace/fenix-drone-company/readme.files/html validator gallery.png)
+-[HTML Validator Gallery]()
 One warning about section lacks heading, but this was a design choice
 
--[HTML Validator Contact](http://workspace/fenix-drone-company/readme.files/html validator contact.png)
+-[HTML Validator Contact]()
 No errors found
 
--[CSS Validator](http://workspace/fenix-drone-company/readme.files/css validator.png)
+-[CSS Validator]()
 No errors found
 
 ### Responsiveness
 
-- To test the responsivness of the site i used [Chrome DevTools](https://developer.chrome.com/docs/devtools/) and lighthouse on desktop [Lighthouse desktop](http://workspace/fenix-drone-company/readme.files/lighthouse desktop.png) and on mobile [Lighthouse mobile](http:/workspace/fenix-drone-company/readme.files/lighthouse mobile.png)
+- To test the responsivness of the site i used [Chrome DevTools](https://developer.chrome.com/docs/devtools/) and lighthouse on desktop [Lighthouse desktop]() and on mobile [Lighthouse mobile]()
 
 
 
