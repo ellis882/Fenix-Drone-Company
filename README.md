@@ -51,7 +51,7 @@ The wireframes were designed using [Balsamiq](https://balsamiq.com/). They're ac
 
 |    Desktop   |    Tablet    |    Mobile    |
 |    :----:    |     :----:   |    :----:    |
-|[About Page](ellis882.github.io/wireframes/desktop//about page desktop.png)|[About Page](ellis882.github.io/wireframes/tablet//about page tablet.png)|[About Page](ellis882.github.io/wireframes/mobile//about page mobile.png)|
+|[About Page](ellis882.github.io/wireframes/desktop/about page desktop.png)|[About Page](ellis882.github.io/wireframes/tablet//about page tablet.png)|[About Page](ellis882.github.io/wireframes/mobile//about page mobile.png)|
 |[Projects Page](ellis882.github.io/wireframes/desktop//project page Desktop.png)|[Projects Page](ellis882.github.io/wireframes/tablet//projects page tablet .png)|[Projects Page](ellis882.github.io/wireframes/mobile//projects page mobile .png)|
 |[Gallery Page](ellis882.github.io/wireframes/desktop//gallery page desktop.png)|[Gallery Page](ellis882.github.io/wireframes/tablet//gallery page tablet  .png)|[Gallery Page](ellis882.github.io/wireframes/mobile//gallery page mobile  .png)|
 |[Contact Page](ellis882.github.io/(wireframes/desktop//contact page desktop.png)|[Contact Page](ellis882.github.io/wireframes/tablet//contact page tablet  .png)|[Contact Page](ellis882.github.io/wireframes/mobile//contact page mobile  .png)|
@@ -113,12 +113,12 @@ The wireframes were designed using [Balsamiq](https://balsamiq.com/). They're ac
 
    ![Footer](/workspace/fenix-drone-company/snipping/footer.png)
 
-- __The Project Page__ 
+- __The Projects Page__ 
 
    -This page shows some of the projects that Fenix Drone Company already did. It gives an idea to the user of what Fenix Drone Company is capable of and what type of drone services are provided.
    - On this page the user sees a picture of the project with a small description of the project.
 
-   ![Project Page]()
+   ![Projects Page](/workspace/fenix-drone-company/snipping/projects page.png)
 
 - __The Promo statistics section__ 
 
@@ -132,13 +132,13 @@ The wireframes were designed using [Balsamiq](https://balsamiq.com/). They're ac
   - This section is valuable to the user as they will be able to easily identify the types of projects and in what expertise area's Fenix Drone Company operates and in which countries.
   - The look and feel of this page is to make the user want to book a drone service with the Fenix Drone Company.
 
-  ![Gallery](ellis882.github.io/snipping/gallery page.png)
+  ![Gallery](/workspace/fenix-drone-company/snipping/gallery page.png)
 
  - __The Contact Page__
 
   - This page will allow the user to get in contact with the Fenix Drone Company. They can send a message to make an appointment or ask information. The user will be asked to submit their full name and email address and if they are in Europe or Brasil. 
 
-  ![Contact Page]()
+  ![Contact Page](/workspace/fenix-drone-company/snipping/contact page.png)
 
  ### 2.2. Features Left to Implement
 
@@ -179,20 +179,20 @@ used to show in a quick visual way the responsiveness of the site
 
 ### 4.1. Code Validators
 
--[HTML Validator About](https://ellis882.github.io/readme.files//html validaor about.png)
+-[HTML Validator About](/workspace/fenix-drone-company/readme.files/html validator about.png)
 No errors just had put &amp instead of &amp; that was solved right away
 
--[HTML Validator Projects](https://ellis882.github.io/readme.files//html validator projects.png)
+-[HTML Validator Projects](/workspace/fenix-drone-company/readme.files/html validator projects.png)
 No errors found
 In my HTML i had add style at the images for "height:auto;width:100%;" to avoid error. 
 
--[HTML Validator Gallery](https://ellis882.github.io/readme.files//html validator gallery.png)
+-[HTML Validator Gallery](/workspace/fenix-drone-company/readme.files/html validator gallery.png)
 One warning about section lacks heading, but this was a design choice
 
--[HTML Validator Contact](https://ellis882.github.io/readme.files//html validator contact.png)
+-[HTML Validator Contact](/workspace/fenix-drone-company/readme.files/html validator contact.png)
 No errors found
 
--[CSS Validator](https://ellis882.github.io/readme.files//css validator.png)
+-[CSS Validator](/workspace/fenix-drone-company/readme.files/css validator.png)
 No errors found
 
 ### Responsiveness
