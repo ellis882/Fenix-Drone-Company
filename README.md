@@ -1,6 +1,6 @@
 # Fenix Drone Company
 
-![Fenix Drone Company](ellis882.github.io/fenix-drone-company/readme.files//amiresponsive.png)
+![Fenix Drone Company](/workspace/fenix-drone-company/readme.files/iamresponsive.png)
 
 Fenix Drone Company is a fictional website that is selling service of drone pilot in Europe and Brasil.
 With expertise in Inspections, Mining, Geo-& Mapping and Film & Photography. Useful information such as certifications, type of drones and which projects are done will be shown on the website as well as a contact form and company information. This should give the user a comfortable feeling to book a drone project with Fenix Drone Company.
@@ -51,10 +51,10 @@ The wireframes were designed using [Balsamiq](https://balsamiq.com/). They're ac
 
 |    Desktop   |    Tablet    |    Mobile    |
 |    :----:    |     :----:   |    :----:    |
-|[About Page](ellis882.github.io/wireframes/desktop/about page desktop.png)|[About Page](ellis882.github.io/wireframes/tablet//about page tablet.png)|[About Page](ellis882.github.io/wireframes/mobile//about page mobile.png)|
-|[Projects Page](ellis882.github.io/wireframes/desktop//project page Desktop.png)|[Projects Page](ellis882.github.io/wireframes/tablet//projects page tablet .png)|[Projects Page](ellis882.github.io/wireframes/mobile//projects page mobile .png)|
-|[Gallery Page](ellis882.github.io/wireframes/desktop//gallery page desktop.png)|[Gallery Page](ellis882.github.io/wireframes/tablet//gallery page tablet  .png)|[Gallery Page](ellis882.github.io/wireframes/mobile//gallery page mobile  .png)|
-|[Contact Page](ellis882.github.io/(wireframes/desktop//contact page desktop.png)|[Contact Page](ellis882.github.io/wireframes/tablet//contact page tablet  .png)|[Contact Page](ellis882.github.io/wireframes/mobile//contact page mobile  .png)|
+|[About Page](http://ellis882.github.io/wireframes/desktop/about page desktop.png)|[About Page](http://ellis882.github.io/wireframes/tablet//about page tablet.png)|[About Page](http://ellis882.github.io/wireframes/mobile//about page mobile.png)|
+|[Projects Page](http://ellis882.github.io/wireframes/desktop//project page Desktop.png)|[Projects Page](http://ellis882.github.io/wireframes/tablet//projects page tablet .png)|[Projects Page](http://ellis882.github.io/wireframes/mobile//projects page mobile .png)|
+|[Gallery Page](http://ellis882.github.io/wireframes/desktop//gallery page desktop.png)|[Gallery Page](http://ellis882.github.io/wireframes/tablet//gallery page tablet  .png)|[Gallery Page](http://ellis882.github.io/wireframes/mobile//gallery page mobile  .png)|
+|[Contact Page](http://ellis882.github.io/(wireframes/desktop//contact page desktop.png)|[Contact Page](http"//ellis882.github.io/wireframes/tablet//contact page tablet  .png)|[Contact Page](http://ellis882.github.io/wireframes/mobile//contact page mobile  .png)|
 
 
 ---
