@@ -1,11 +1,11 @@
 # Fenix Drone Company
 
-![Fenix Drone Company](ellis882.github.io/Fenix-Drone-Company/readme.files//amiresponsive.png)
+![Fenix Drone Company](ellis882.github.io/fenix-drone-company/readme.files//amiresponsive.png)
 
 Fenix Drone Company is a fictional website that is selling service of drone pilot in Europe and Brasil.
 With expertise in Inspections, Mining, Geo-& Mapping and Film & Photography. Useful information such as certifications, type of drones and which projects are done will be shown on the website as well as a contact form and company information. This should give the user a comfortable feeling to book a drone project with Fenix Drone Company.
 
-You can visit the deployed website [Here](https://ellis882.github.io/Fenix-Drone-Company/)
+You can visit the deployed website [Here](https://ellis882.github.io/fenix-drone-company/)
 
 ---
 
@@ -68,20 +68,20 @@ The wireframes were designed using [Balsamiq](https://balsamiq.com/). They're ac
   - Featured on all four pages, the full responsive navigation bar includes links to the Logo, About page, Project page Gallery page and Contact page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-  ![Nav Bar](ellis882.github.io/snipping/navigation bar.png)
+  ![Nav Bar](/workspace/fenix-drone-company/snipping/navigation bar.png)
 
 - __The landing page image__
 
   - The landing includes an image with text overlay to allow the user to see that Fenix Drone Company is certified to fly in CTR-Zones in Europe and Brasil. 
   - This section introduces the user to Fenix Drone Company with an eye catching animation to grab their attention. It looks that the drone is flying to you.
 
-  ![Landing Page](ellis882.github.io/snipping/landing image page.png)
+  ![Landing Page](/workspace/fenix-drone-company/snipping/landing image page.png)
 
 - __Expertise Section__
 
   - The Expertise section will inform the user to see in which area's the company operates. This is important to know for which type of projects they can book Fenix Drone Company. It shows the area's of expertise which is important if working with a drone.
 
-  ![Expertise section](ellis882.github.io/snipping/about section.png)
+  ![Expertise section](/workspace/fenix-drone-company/snipping/about section.png)
 
 - __Certifications section__
 
@@ -89,21 +89,21 @@ The wireframes were designed using [Balsamiq](https://balsamiq.com/). They're ac
   - The insurance ,if something would happen during the flight with a drone, is also important to have. It reduces the financial consequences of the risk if something might happen during the project.
   - This section will be updated when more certifications are achieved. 
 
-  ![Certification section](ellis882.github.io/snipping/certifications section.png)
+  ![Certification section](/workspace/fenix-drone-company/snipping/certifications section.png)
 
 - __Equipment section__
 
   - This section will show the three different types of drones that are used during a project depending of the type of project.
   The drones have their own special features to make the job done in the best way with high quality. This gives the user a feeling of trust that their project will be a succes. Ofcourse the drone pilot makes the difference but you work faster and better with good equipment.
 
-  ![Equipment section](ellis882.github.io/snipping/equipment section.png)
+  ![Equipment section](/workspace/fenix-drone-company/snipping/equipment section.png)
 
  - __Pricing section__
 
    - On the website we ask the user to contact us for a pricing. 
     There are many variables at play. It's so locolized and so different based on the specific market in the different counrties in Europe and in Brasil, that it's hard to give a fixed price. A lot of things are considered in the price like; the level of expertise, the industry, the insurance coverage, travel surcharges (is a job out of the regular service area), pricing-per-acre (for the specific industry) instead of per-hour and market value and ROI (what problems does Fenix Drone Company solves and how much is that worth)
 
-   ![Pricing section](ellis882.github.io/snipping/pricing.png)
+   ![Pricing section](/workspace/fenix-drone-company/snipping/pricing.png)
   
   - __The Footer__ 
 
@@ -111,20 +111,20 @@ The wireframes were designed using [Balsamiq](https://balsamiq.com/). They're ac
    - The footer is valuable to the user as it encourages them to keep connected via social media. To ask the user to connect with us is a warm invitation on the end of every page.
    - There is also a top icon to go back easy to the top of the page.
 
-   ![Footer](ellis882.github.io/snipping/footer.png)
+   ![Footer](/workspace/fenix-drone-company/snipping/footer.png)
 
 - __The Project Page__ 
 
    -This page shows some of the projects that Fenix Drone Company already did. It gives an idea to the user of what Fenix Drone Company is capable of and what type of drone services are provided.
    - On this page the user sees a picture of the project with a small description of the project.
 
-   ![Project Page](ellis882.github.io/snipping/projects page.png)
+   ![Project Page]()
 
 - __The Promo statistics section__ 
 
    - This section will provide the user important information in a easy and fast way. It shows the facts, how many projects are really done by Fenix Drone Company, with how many partners they had worked. In this way you keep the user's interest and gain trust because they know what they can expect.
 
-   ![Promo statistics section](ellis882.github.io/snipping/promo statistics section.png)
+   ![Promo statistics section](/workspace/fenix-drone-company/snipping/promo statistics section.png)
 
 - __Gallery__
 
@@ -138,7 +138,7 @@ The wireframes were designed using [Balsamiq](https://balsamiq.com/). They're ac
 
   - This page will allow the user to get in contact with the Fenix Drone Company. They can send a message to make an appointment or ask information. The user will be asked to submit their full name and email address and if they are in Europe or Brasil. 
 
-  ![Contact Page](ellis882.github.io/snipping/contact page.png)
+  ![Contact Page]()
 
  ### 2.2. Features Left to Implement
 
@@ -218,8 +218,7 @@ No errors found
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here -  (https://ellis882.github.io/Fenix-Drone-Company/)
-
+The live link can be found here -  (https://ellis882.github.io/fenix-drone-company/)
 **To clone the project**
 
 - Under the repository’s name, click **Clone or download**.
@@ -264,7 +263,7 @@ In the content section you can find all the sources were i got my information fr
 
 - My Mentor for continuous helpful feedback.
 
-- Tutor support at Code Institute for their support
+
 
 
 
