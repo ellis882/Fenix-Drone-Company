@@ -65,20 +65,14 @@ The idea to come up with this project to make a website for drone services came 
   - Featured on all four pages, the full responsive navigation bar includes links to the Logo, About page, Project page Gallery page and Contact page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-  ![nav](snipping/navigation-bar.png)
-
 - __The landing page image__
 
   - The landing includes an image with text overlay to allow the user to see that Fenix Drone Company is certified to fly in CTR-Zones in Europe and Brasil. 
   - This section introduces the user to Fenix Drone Company with an eye catching animation to grab their attention. It looks that the drone is flying to you.
 
-  ![Landing page](snipping/landing-image-page.png)
-
 - __Expertise Section__
 
   - The Expertise section will inform the user to see in which area's the company operates. This is important to know for which type of projects they can book Fenix Drone Company. It shows the area's of expertise which is important if working with a drone.
-
-   ![Expertise section](snipping/about-section.png)
 
 - __Certifications section__
 
@@ -86,56 +80,41 @@ The idea to come up with this project to make a website for drone services came 
   - The insurance ,if something would happen during the flight with a drone, is also important to have. It reduces the financial consequences of the risk if something might happen during the project.
   - This section will be updated when more certifications are achieved. 
 
-   ![Certification section](snipping/certifications-section.png)
-
 - __Equipment section__
 
- - This section will show the three different types of drones that are used during a project depending of the type of project.
-  The drones have their own special features to make the job done in the best way with high quality. This gives the user a feeling of trust that their project will be a succes. Ofcourse the drone pilot makes the difference but you work faster and better with good equipment.
-
-   ![Equipment section](snipping/equipment-section.png)
+  - This section will show the three different types of drones that are used during a project depending of the type of project.
+   The drones have their own special features to make the job done in the best way with high quality. This gives the user a feeling of trust that their project will be a succes. Ofcourse the drone pilot makes the difference but you work faster and better with good equipment.
 
  - __Pricing section__
 
   - On the website we ask the user to contact us for a pricing. 
     There are many variables at play. It's so locolized and so different based on the specific market in the different counrties in Europe and in Brasil, that it's hard to give a fixed price. A lot of things are considered in the price like; the level of expertise, the industry, the insurance coverage, travel surcharges (is a job out of the regular service area), pricing-per-acre (for the specific industry) instead of per-hour and market value and ROI (what problems does Fenix Drone Company solves and how much is that worth)
 
-    ![Pricing section](snipping/pricing.png)
-  
-  - __The Footer__ 
+- __The Footer__ 
  
-    - The footer section includes links to the relevant social media sites for Fenix Drone Company. The links will open to a new tab to allow easy navigation for the user. 
-    - The footer is valuable to the user as it encourages them to keep connected via social media. To ask the user to connect with us is a warm invitation on the end of every page.
-    - There is also a top icon to go back easy to the top of the page.
+  - The footer section includes links to the relevant social media sites for Fenix Drone Company. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer is valuable to the user as it encourages them to keep connected via social media. To ask the user to connect with us is a warm invitation on the end of every page.
+  - There is also a top icon to go back easy to the top of the page.
 
-     ![Footer](snipping/footer.png)
+- __The Projects Page__ 
 
-  - __The Projects Page__ 
+  -This page shows some of the projects that Fenix Drone Company already did. It gives an idea to the user of what Fenix Drone Company is capable of and what type of drone services are provided.
+  - On this page the user sees a picture of the project with a small description of the project.
 
-    -This page shows some of the projects that Fenix Drone Company already did. It gives an idea to the user of what Fenix Drone Company is capable of and what type of drone services are provided.
-    - On this page the user sees a picture of the project with a small description of the project.
+- __The Promo statistics section__ 
 
-     ![Projects Page](snipping/projects-page.png)
+  - This section will provide the user important information in a easy and fast way. It shows the facts, how many projects are really done by Fenix Drone Company, with how many partners they had worked. In this way you keep the user's interest and gain trust because they know what they can expect.
 
-  - __The Promo statistics section__ 
+- __Gallery__
 
-     - This section will provide the user important information in a easy and fast way. It shows the facts, how many projects are really done by Fenix Drone Company, with how many partners they had worked. In this way you keep the user's interest and gain trust because they know what they can expect.
+  - The gallery will provide the user with supporting images to see what projects are done. 
+  - This section is valuable to the user as they will be able to easily identify the types of projects and in what expertise area's Fenix Drone Company operates and in which countries.
+  - The look and feel of this page is to make the user want to book a drone service with the Fenix Drone Company.
 
-     ![Promo statistics section](snipping/promo-statistics-section.png)
+- __The Contact Page__
 
-  - __Gallery__
+  - This page will allow the user to get in contact with the Fenix Drone Company. They can send a message to make an appointment or ask information. The user will be asked to submit their full name and email address and if they are in Europe or Brasil. 
 
-    - The gallery will provide the user with supporting images to see what projects are done. 
-    - This section is valuable to the user as they will be able to easily identify the types of projects and in what expertise area's Fenix Drone Company operates and in which countries.
-    - The look and feel of this page is to make the user want to book a drone service with the Fenix Drone Company.
-
-     ![Gallery](snipping/gallery-page.png)
-
-  - __The Contact Page__
-
-   - This page will allow the user to get in contact with the Fenix Drone Company. They can send a message to make an appointment or ask information. The user will be asked to submit their full name and email address and if they are in Europe or Brasil. 
-
-    ![Contact Page](snipping/contact-page.png)
 
  ### 2.2. Features Left to Implement
 
@@ -211,9 +190,9 @@ No errors found
 **To deploy the project**
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+- In the GitHub repository, navigate to the Settings tab 
+- From the source section drop-down menu, select the Master Branch
+- Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
 The live link can be found here -  (https://ellis882.github.io/fenix-drone-company/)
 **To clone the project**

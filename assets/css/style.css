@@ -534,7 +534,7 @@ hr{
   /* about page */
   #expertise{
     width: 85%;
-    height: 1150px;
+    height: 1250px;
     margin: 0 auto;
   }
 
@@ -594,7 +594,8 @@ hr{
     text-align: center;
     margin-bottom: 20px;
   }
-  
+
+    
 }
 
 /* for medium screen sizes from 950px wide and down */
@@ -683,7 +684,7 @@ hr{
   
   /* about page */
   #expertise{
-    height: 1100px;
+    height: 1150px;
   }
 
   #center-about{
@@ -759,15 +760,12 @@ hr{
   }
 
   #expertise{
-    height: 1100px;
+    height: 1150px;
   }
 
   
   #circle-container{
-    padding: inherit;
-    
-    width: 200px;
-    height: 200px;
+    display: none;
   }
 
   .left-about-heading{
