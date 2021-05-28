@@ -47,11 +47,7 @@ The idea to come up with this project to make a website for drone services came 
 
 #### 1.3. Wireframes
 
- The wireframes were designed using [Balsamiq](https://balsamiq.com/). They're accessible in the following links:
-
-|    Desktop   |    Tablet    |    Mobile    |
-|    :----:    |     :----:   |    :----:    |
-|
+I used [Balsamiq](https://balsamiq.com/) to create [WireFrames](https://github.com/ellis882/fenix-drone-company/tree/master/wireframes) in desktop, tablet and mobile view.
 
 
 ---
@@ -155,25 +151,25 @@ used to show in a quick visual way the responsiveness of the site
 
 ### 4.1. Code Validators
 
--[HTML Validator About]()
+-[HTML Validator About](https://github.com/ellis882/fenix-drone-company/blob/master/readme.files/html-validator-about.pdf)
 No errors just had put &amp instead of &amp; that was solved right away
 
--[HTML Validator Projects]()
+-[HTML Validator Projects](https://github.com/ellis882/fenix-drone-company/blob/master/readme.files/html-validator-projects.pdf)
 No errors found
 In my HTML i had add style at the images for "height:auto;width:100%;" to avoid error. 
 
--[HTML Validator Gallery]()
+-[HTML Validator Gallery](https://github.com/ellis882/fenix-drone-company/blob/master/readme.files/html-validator-gallery.pdf)
 One warning about section lacks heading, but this was a design choice
 
--[HTML Validator Contact]()
+-[HTML Validator Contact](https://github.com/ellis882/fenix-drone-company/blob/master/readme.files/html-validator-contact.pdf)
 No errors found
 
--[CSS Validator]()
+-[CSS Validator](https://github.com/ellis882/fenix-drone-company/blob/master/readme.files/css-validator.pdf)
 No errors found
 
 ### Responsiveness
 
-- To test the responsivness of the site i used [Chrome DevTools](https://developer.chrome.com/docs/devtools/) and lighthouse on desktop [Lighthouse desktop]() and on mobile [Lighthouse mobile]()
+- To test the responsivness of the site i used [Chrome DevTools](https://developer.chrome.com/docs/devtools/) and lighthouse on desktop [Lighthouse desktop](https://github.com/ellis882/fenix-drone-company/blob/master/readme.files/lighthouse-desktop.pdf) and on mobile [Lighthouse mobile](https://github.com/ellis882/fenix-drone-company/blob/master/readme.files/lighthouse-mobile.pdf)
 
 
 
