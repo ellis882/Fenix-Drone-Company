@@ -169,7 +169,7 @@ No errors found
 
 ### Responsiveness
 
-- To test the responsivness of the site i used [Chrome DevTools](https://developer.chrome.com/docs/devtools/) and lighthouse on desktop [Lighthouse desktop](https://github.com/ellis882/fenix-drone-company/blob/master/readme.files/lighthouse-desktop.pdf) and on mobile [Lighthouse mobile](https://github.com/ellis882/fenix-drone-company/blob/master/readme.files/lighthouse-mobile.pdf)
+- To test the responsivness of the site i used [Chrome DevTools](https://developer.chrome.com/docs/devtools/) and lighthouse on desktop [Lighthouse desktop](https://github.com/ellis882/fenix-drone-company/blob/master/readme.files/lighthouse-desktop%20(1).pdf) and on mobile [Lighthouse mobile](https://github.com/ellis882/fenix-drone-company/blob/master/readme.files/lighthouse-mobile%20(1).pdf)
 
 
 
