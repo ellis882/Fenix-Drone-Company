@@ -1,6 +1,6 @@
 # Fenix Drone Company
 
-![Fenix Drone Company](readme.files/iamresponsive.png)
+![Fenix Drone Company](readme.files/amiresponsive.png)
 
 Fenix Drone Company is a fictional website that is selling service of drone pilot in Europe and Brasil.
 With expertise in Inspections, Mining, Geo-& Mapping and Film & Photography. Useful information such as certifications, type of drones and which projects are done will be shown on the website as well as a contact form and company information. This should give the user a comfortable feeling to book a drone project with Fenix Drone Company.
