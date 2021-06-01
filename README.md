@@ -272,7 +272,7 @@ In the content section you can find all the sources were i got my information fr
 
 - The photos/ Images used on the website are all taken from Unsplash, Free Images. Because the website is fiction i had no acces to video or real images. If the website was real i would use short video's of the projects that were done by the company and different images of the drones we use and gallery page. Now i had used images for the look and feel of the company.
 
-- Videos for drone users i watched to get inspired [youtube](https://youtu.be/v0TeCv4eqyc)(https://youtu.be/i3V2L1XHZcA)
+- Videos for drone users i watched to get inspired [youtube](https://youtu.be/v0TeCv4eqyc)
 
 ### Acknowledgements
 
