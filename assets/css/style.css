@@ -742,10 +742,17 @@ hr{
 @media screen and (max-width: 470px) {
   /* about page */
 
+  #landing-page-image{
+    height: 600px;
+    width: 100%;
+    background: url('../images/landing-page-mobile.jpg') no-repeat center center;
+  
+
+  }
+
   #logo{
     line-height: 50px;
     text-align: center;
-
   }
 
   #menu{
@@ -755,7 +762,7 @@ hr{
   #cover-text{
     width: 200px;
     height: 300px;
-    margin-right: 45px;
+    margin-right: 50px;
     margin-bottom: 100px;
   }
 
@@ -778,11 +785,14 @@ hr{
 
   #certifications{
     height: 700px;
+    background: url('../images/certifications-image.jpg') no-repeat center center;
+    height: 100%; 
   }
 
   #certifications-list{
     position: inherit;
     background: none;
+    
     
   }
 

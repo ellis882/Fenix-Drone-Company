@@ -23,6 +23,7 @@ The idea to come up with this project to make a website for drone services came 
 
 - As a user, I want to be able to get in touch with the company.
 - As a user, I want to be able to check what they already did on projects and if they are quilified.
+- As a user, I want to see rhe social media links to connect with the company.
 
 - As a person needing a drone service for a special field of expertise, I want to be able to see what the company already did and with what type of equipmemt they work for my project to become a succes.
 - As a regular customer, I want to get in touch with the company.
@@ -33,15 +34,14 @@ The idea to come up with this project to make a website for drone services came 
 -	The fact content that is shown on the website (such as the certifications and projects, gallery page) proofs ability that the drone service will be done in a professional way and that gives the user a confident feeling to book the drone service.
 
 -	The color brown that is used throughout the pages will give the user a feeling of trust, comfort and reliability which is important if you want to book a service. It gives a trusting feeling. 
-[had found this information](https://significadodeloscolores.com/nl/betekenis-van-bruine-kleur}
+[had found this information](https://significadodeloscolores.com/nl/betekenis-van-bruine-kleur)
 
 -	The image with zoom effect that is used on the about page is chosen because it looks as if the drone is flying towards the user. This is an interactive way of introducing the user with the company.
 
 -	At the contact page, which is the last page, an image on the background with someone that controls a drone that flies away is chosen because it shows in the users mind that the contact form is sending to the company.
 
 -	 The beginning and end images are especially chosen to give the user a signal of what the company represents. Goal is that the user is comfortable to book a drone service for a project with the company. Comfortable because the company is reliable, professional and good to work together with. The combination of colors and images that are used needs to come together to make a good users experience. The use of more images than text is chosen because good images says more than a lot of words and reach the emotional part of people. Which make them more willingly to ask more information or to book a drone service.
-[Reading material to consider]
-(https://resources.nuagency.com/blog/marketing/the-importance-of-images-in-marketing)
+[Reading material to consider](https://resources.nuagency.com/blog/marketing/the-importance-of-images-in-marketing)
 
 -	The simplicity of the website makes it easier for the user to find the information they want/need to know before booking a drone service. 
 
@@ -167,13 +167,56 @@ No errors found
 -[CSS Validator](https://github.com/ellis882/fenix-drone-company/blob/master/readme.files/css-validator.pdf)
 No errors found
 
-### Responsiveness
+### 4.2. Responsiveness
 
 - To test the responsivness of the site i used [Chrome DevTools](https://developer.chrome.com/docs/devtools/) and lighthouse on desktop [Lighthouse desktop](https://github.com/ellis882/fenix-drone-company/blob/master/readme.files/lighthouse-desktop%20(1).pdf) and on mobile [Lighthouse mobile](https://github.com/ellis882/fenix-drone-company/blob/master/readme.files/lighthouse-mobile%20(1).pdf)
 
+### 4.3. Testing User Stories
+
+- As an owner of the company, I want to show what we already did and can do to gain more drone projects.
+  - on the about page you can see the amount of certificates and insurance that is needed to do a drone project and the area's of expertise of the company.
+  -on the projects page you see the projects already done and the promo statistics which give a clear view what the company already had accomplished.
 
 
-### Bugs
+- As an owner of the company, I want to offer the possibility to give more information about the drone services we do.
+  - the contact page will give the user a possibility to send a message for more information about pricing or specific projects.
+  - The footer will provide the links to connect on Social Media and there you will find more information about the drone services.
+
+
+- As an owner of the company, I want my website to be attractive and show the user that we are quilified to do specific drone  projects which requires expertise.
+  - The landing page with zoom effect will make the website more atractive because it looks as if the drone is flying. The About page provides all the information the user wants to know before booking a drone service for a specific expertise area.
+  - The Gallery page gives a nice look and feel of the projects.
+  - The Projects page shows that the company already did some succesful projects and that gives a feeling of trust.  
+
+
+- As a user, I want to be able to get in touch with the company.
+  - Through the contact form you can get in touch with the company or you can call because the company details are on the contact page too.
+
+
+- As a user, I want to be able to check what they already did on projects and if they are quilified.
+  - On the Projects page you can see the different projects and a promo statistics for the facts.
+  - On the Gallery page you see a nice overview of pictures of the projects.
+  - On the About page you will found the certificates of the company and the type of drones they use for the different projects.
+
+
+- As a user, I want to see rhe social media links to connect with the company.
+  - In the Footer you can see the links to connect with the company.
+
+
+- As a person needing a drone service for a special field of expertise, I want to be able to see what the company already did and with what type of equipmemt they work for my project to become a succes.
+  - All this type of information is provided on the About page and the Projects page.
+
+
+- As a regular customer, I want to get in touch with the company.
+  - To get in touch you can connect through Social Media links or to fill in the contact form. The company will contact you to answer your questions or to see which drone project they can do. 
+
+
+- As a potential client, I would like to see what the company can do and already did on projects.
+  - This information you see right away on the statistics promo on the Projects page.
+
+
+
+### 4.4. Bugs
 
 - One of the major bugs I found during the development process was to set the outline of my promo statistics section on the projects page. Could not outline them good. I had solve that by setting the width and margin property different.
 
@@ -209,13 +252,13 @@ In the content section you can find all the sources were i got my information fr
 
 ### 6.1 Content 
 
-- The text for the Expertise- and Projects section and a bit for the Certifications list was taken from the website of the [Dutch Drone Company] (https://www.dutchdronecompany.com/)
+- The text for the Expertise- and Projects section and a bit for the Certifications list was taken from the website of the [Dutch Drone Company](https://www.dutchdronecompany.com/)
 
-- For the certifications list, information was taken from the website [Drone Flight Academy] (https://www.droneflightacademy.eu/)
+- For the certifications list, information was taken from the website [Drone Flight Academy](https://www.droneflightacademy.eu/)
 
 - Text for the drones we use was taken from a search on google to see which drones are used in the area's of expertise. Matching images where taken from [Unsplash, free images](https://unsplash.com/)
 
-- Idea for Gallery page on how the images are set up and Landing Page zoom effect with overlay text was inspired by the Love Running Project at [Code Institute]
+- Idea for Gallery page on how the images are set up and Landing Page zoom effect with overlay text was inspired by the Love Running Project at Code Institute in LMS.
 
 - Instructions on how to implement form validation on the Contact page was taken from Code Institute in LMS [specific from the Love Running project](https://www.codeinstitute.net)
 
@@ -229,7 +272,7 @@ In the content section you can find all the sources were i got my information fr
 
 - The photos/ Images used on the website are all taken from Unsplash, Free Images. Because the website is fiction i had no acces to video or real images. If the website was real i would use short video's of the projects that were done by the company and different images of the drones we use and gallery page. Now i had used images for the look and feel of the company.
 
-- Videos for drone users i watched to get inspired [youtube](https://youtu.be/v0TeCv4eqyc) (https://youtu.be/i3V2L1XHZcA)
+- Videos for drone users i watched to get inspired [youtube](https://youtu.be/v0TeCv4eqyc)(https://youtu.be/i3V2L1XHZcA)
 
 ### Acknowledgements
 
